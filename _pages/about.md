@@ -13,11 +13,14 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in **deep learning**, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
 
 # Recent News
+* Participated in **The Cornell, Maryland, Max Planck Pre-doctoral Research School**, 2020 organized virtually at MPI-SWS from 2-8 Aug.
 * Two papers submitted at the Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 
 # Research Work
 1. Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries  
 1. The Teaching Dimension of Kernel Perceptrons 
+1. Deletion to Induced Matching
+
 
 
 # Academic Services
