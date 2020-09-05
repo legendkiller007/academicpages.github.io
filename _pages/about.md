@@ -10,10 +10,14 @@ redirect_from:
 
 # About Me
 * I am Research Fellow in the [Machine Teaching group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+* My research interests lie in the general area of machine learning, particularly in **deep learning**, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
 
 # Recent News
 * 
+# Research Work
+1. Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries  
+1. The Teaching Dimension of Kernel Perceptrons 
+
 
 # Academic Services
 * Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020, AAAI 2021, ICLR 2021.
