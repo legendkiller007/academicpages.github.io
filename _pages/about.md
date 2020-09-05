@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 * Participated in **The Cornell, Maryland, Max Planck Pre-doctoral Research School**, 2020 organized virtually at MPI-SWS from 2-8 Aug.
+* Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 * Two papers submitted at the Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 
 # Research Work
