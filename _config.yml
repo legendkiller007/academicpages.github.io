@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Akash Kumar"
-  avatar           : "IMG_3727.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "IMG_3727.JPG"
+  bio              : "Research Assistant, Machine Teaching Group, MPI-SWS"
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=WFiCe9QAAAAJ&hl=en#"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
