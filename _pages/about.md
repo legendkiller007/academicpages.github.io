@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 * Two papers submitted at the Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
+
 # Research Work
 1. Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries  
 1. The Teaching Dimension of Kernel Perceptrons 
