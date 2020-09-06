@@ -19,12 +19,15 @@ redirect_from:
 
 # Research Work
 1. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
-**Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.
+**Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.<br>
 <i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 </i>
-1. The Teaching Dimension of Kernel Perceptrons 
-1. Deletion to Induced Matching
-
+1. <b>[The Teaching Dimension of Kernel Perceptrons]  </b> <br>
+**Akash Kumar**, Hanqi Zhang, Adish Singla, Yuxin Chen.<br>
+<i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
+</i>
+1. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
+**Akash Kumar**, Mithilesh Kumar.<br>
 
 
 # Academic Services
