@@ -20,7 +20,7 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 * Participated in **Directions in ML: AutoML and Automating Algorithms** Lecture series starting 28th July, 2020 by Microsoft Research which features talks by outstanding academics and domain experts.
 * Two papers submitted at the Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 
-# Research Work
+# Recent Research Work
 1. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
 **Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.<br>
 <i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
@@ -34,8 +34,3 @@ After that, I was a graduate student in the [Department of Computer Science](htt
 3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, Mithilesh Kumar.<br>
 <i> ArXiv preprint </i>
-
-
-# Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020, AAAI 2021, ICLR 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR)
