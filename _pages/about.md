@@ -18,6 +18,7 @@ redirect_from:
 * Two papers submitted at the Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 
 # Research Work
+<br>
 1. <b>[Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries](https://arxiv.org/abs/2006.14677) </b> <br>
 **Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.
 <i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
