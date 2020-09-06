@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 # About Me
-* I am Research Fellow in the [Machine Teaching group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
-* My research interests lie in the general area of machine learning, particularly in **deep learning**, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+Currently, I am a Research Fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I have the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). My primary interest lies in exploring the theory and practice of machine learning. I'm also curious in understanding the non-convex optimization of Deep learning.<br>
+
+I got my BSc in Mathematics and Computer Science (2013-2016) and MSc Computer Science (2016-2018) from [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/).
+After that, I was a graduate student in the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) at [alto Univerity (Finland)](https://www.aalto.fi/en) from September 2018 to August 2019.
+
 
 # Recent News
 * Participated in **The Cornell, Maryland, Max Planck Pre-doctoral Research School**, 2020 organized virtually at MPI-SWS from 2-8 Aug.
