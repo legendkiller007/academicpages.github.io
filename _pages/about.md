@@ -22,11 +22,13 @@ redirect_from:
 **Akash Kumar**, Adish Singla, Yisong Yue, Yuxin Chen.<br>
 <i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 </i>
-1. <b>[The Teaching Dimension of Kernel Perceptrons]  </b> <br>
+
+2. <b>The Teaching Dimension of Kernel Perceptrons  </b> <br>
 **Akash Kumar**, Hanqi Zhang, Adish Singla, Yuxin Chen.<br>
 <i>In submission to Proc. of the 34th Conference on Neural Information Processing Systems (NeurIPS'20), 2020
 </i>
-1. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
+
+3. <b> [Deletion to Induced Matching](https://arxiv.org/abs/2008.09660) </b> <br>
 **Akash Kumar**, Mithilesh Kumar.<br>
 
 
