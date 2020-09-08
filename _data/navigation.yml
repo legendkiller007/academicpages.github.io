@@ -1,24 +1,25 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/
 
   - title: "Projects"
     url: /projects/
-  #- title: "Talks"
-   # url: /talks/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+      
+  - title: "Publications"
+    url: /publications/
+  
+#  - title: "CV"
+#    url: /files/Curriculum_Vitae.pdf
 
-  #- title: "Teaching"
-   # url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Misc"
+  #  url: /misc/
+  # - title: "Guide"
+  #   url: /markdown/
+
